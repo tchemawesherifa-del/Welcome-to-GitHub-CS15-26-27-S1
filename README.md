@@ -4,6 +4,7 @@ At any point you can ask for help with this assignment, as it is intended to hel
 
 # Welcome to GitHub
 
+
 When you click a link to open a new GitHub assignment, it will take you to a GitHub **repository**. A repository is a collection of files (usually code files) that have been added to GitHub. Repositories also track changes over time. 
 
 Below is a basic example of a repository.
@@ -154,3 +155,4 @@ Please ensure you actually make it a link instead of just text!
 
 # CONGRATULATIONS
 ## You have successfully completed your first GitHub assignment!
+yay i finished
